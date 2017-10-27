@@ -1,33 +1,18 @@
 {
-  "10": [ "Predefined Name 1" ],
-  "11": [ "Predefined Name 1", "Predefined Name 2" ],
-  "12": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3" ],
-  "13": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3", "Predefined Name 4" ],
+  "11": [ "Czechitas 01", "Czechitas 02" ],
+  "12": [ "Czechitas 03", "Czechitas 04" ],
 
-  "20": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3", "Predefined Name 4" ],
-  "21": [ "Predefined Name 1", "Predefined Name 2" ],
-
-  "30": [ "Predefined Name 1" ],
-  "31": [ "Predefined Name 1", "Predefined Name 2" ],
-  "32": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3" ],
-  "33": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3", "Predefined Name 4" ],
-  "34": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3", "Predefined Name 4", "Predefined Name 5" ],
-  "35": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3", "Predefined Name 4", "Predefined Name 5", "Predefined Name 6" ],
-
-  "40": [ "Predefined Name 1" ],
-  "41": [ "Predefined Name 1", "Predefined Name 2" ],
-  "42": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3" ],
-  "43": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3", "Predefined Name 4" ],
-  "44": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3", "Predefined Name 4", "Predefined Name 5" ],
-  "45": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3", "Predefined Name 4", "Predefined Name 5", "Predefined Name 6" ],
-  "46": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3", "Predefined Name 4", "Predefined Name 5", "Predefined Name 6", "Predefined Name 7" ],
-  "47": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3", "Predefined Name 4", "Predefined Name 5", "Predefined Name 6", "Predefined Name 7", "Predefined Name 8" ],
-
-  "50": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3", "Predefined Name 4", "Predefined Name 5", "Predefined Name 6" ],
-
-  "60": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3" ],
-
-  "70": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3", "Predefined Name 4", "Predefined Name 5", "Predefined Name 6" ],
-  "71": [ "Predefined Name 1", "Predefined Name 2", "Predefined Name 3", "Predefined Name 4", "Predefined Name 5", "Predefined Name 6" ]
-
+  "21": [ "Czechitas 05", "Czechitas 06" ],
+  "22": [ "Czechitas 07", "Czechitas 08" ],
+  
+  "31": [ "Czechitas 09", "Czechitas 10" ],
+  "32": [ "Czechitas 11", "Czechitas 12" ],
+  
+  "41": [ "Czechitas 13", "Czechitas 14" ],
+  "42": [ "Czechitas 15", "Czechitas 16" ],
+  
+  "51": [ "Czechitas 17", "Czechitas 18" ],
+  "52": [ "Czechitas 19", "Czechitas 20" ],
+  
+  "62": [ "Czechitas 21", "Czechitas 22" ]
 }
