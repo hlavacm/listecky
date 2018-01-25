@@ -155,6 +155,12 @@ Stáhněte, aktivujte a nastavte plugin iThemes Security.
 
 ---
 
+# Použijte libovolný shortcode v obsahu.
+
+Vložte do libovolného příspěvku nebo stránky shortcode, např. z nějakého pluginu, o kterém víte nebo zjistíte, že má funkci s shortcodem. Klidně plugin: Custom Facebook Feed. TIP: plugin je třeba nejprve nastavit/propojit s Facebookem...
+
+---
+
 # Přidejte libovolného nového uživatele
 
 Přidejte libovolného nového uživatele, např. na svůj další e-mail nebo pro kolegyni vedle.
